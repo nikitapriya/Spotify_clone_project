@@ -2,4 +2,4 @@
 
 - my second project using html and css
 
-Deployed here : 
+Deployed here : https://nikita-spotify-clone-project.netlify.app/
