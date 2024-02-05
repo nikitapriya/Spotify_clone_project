@@ -1,2 +1,5 @@
 # Spotify_clone_project
-my second project using html and css
+
+- my second project using html and css
+
+Deployed here : 
